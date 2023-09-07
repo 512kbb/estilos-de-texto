@@ -1,0 +1,32 @@
+* { 
+    margin: 10px;
+    padding: 5px
+}
+h1 {
+    background-color: #000000;
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightblue;
+    text-align: end;
+    text-decoration: underline;
+}
+
+span {
+    margin: 0;
+    padding: 0px;
+}
+span:first-child {
+    color: white;
+    padding-left: 10px;
+}
